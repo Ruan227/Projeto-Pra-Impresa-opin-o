@@ -1,0 +1,21 @@
+#IMG{
+background-color: rgb(116, 181, 184);
+margin: 5px;
+}
+
+#CATI{
+    height:100%;
+    background-color:  rgb(228, 254, 255);
+    align-items: center;
+    margin-top: 0%;
+    list-style-type: none;
+    margin: 5px;
+    font-size: large;
+}
+
+#SUB{
+
+margin: 0%;
+margin-left: 25%;
+
+}
